@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseLib/BaseLib.iml" filepath="$PROJECT_DIR$/BaseLib/BaseLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPArchitecture.iml" filepath="$PROJECT_DIR$/MVPArchitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseLib/baseapp/baseapp.iml" filepath="$PROJECT_DIR$/BaseLib/baseapp/baseapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseLib/mvplib/mvplib.iml" filepath="$PROJECT_DIR$/BaseLib/mvplib/mvplib.iml" />
+    </modules>
+  </component>
+</project>
